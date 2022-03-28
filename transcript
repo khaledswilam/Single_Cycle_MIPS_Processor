@@ -1,0 +1,88 @@
+# vsim work.TOP_MODULE 
+# Start time: 13:33:28 on Mar 12,2022
+# Loading work.TOP_MODULE
+# Loading work.mips
+# Loading work.controller
+# Loading work.control
+# Loading work.ALUControl
+# Loading work.datapath
+# Loading work.PC
+# Loading work.PC_ADDER
+# Loading work.sh_left32
+# Loading work.adder
+# Loading work.mux_32_2_1
+# Loading work.sh_left
+# Loading work.reg_file
+# Loading work.mux_5_2_1
+# Loading work.Sign_Extend
+# Loading work.ALU
+# Loading work.inst_mem
+# Loading work.data_mem
+add wave -position insertpoint  \
+sim:/TOP_MODULE/clk \
+sim:/TOP_MODULE/reset \
+sim:/TOP_MODULE/test
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Khaled Ahmed  Hostname: KHALEDSWILAM55  ProcessID: 18956
+#           Attempting to use alternate WLF file "./wlft654y29".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft654y29
+force -freeze sim:/TOP_MODULE/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/TOP_MODULE/reset 0 0
+run
+run
+force -freeze sim:/TOP_MODULE/reset St1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 13:34:18 on Mar 12,2022, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 2

@@ -1,0 +1,416 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Go/Desktop/code tries/MIPS
+vadder
+Z1 !s110 1646940453
+!i10b 1
+!s100 bzBQ>FBO7DQ:j3LJAJo`^0
+I;6EFNe^0`Q5K4]AP4R^Y_0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/digital roadmap/workshop/My sessions/final project/MIPS
+w1646670737
+8adder.v
+Fadder.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1646940453.000000
+Z6 !s107 vsim.wlf|transcript|TOP_MODULE.v|Sign_Extend.v|sh_left32.v|sh_left.v|reg_file.v|Program 2_Machine Code.txt|Program 1_Machine Code.txt|PC_ADDER.v|PC.v|mux_5_2_1.v|mux_32_2_1.v|mips.v|inst_mem.v|data_path.v|data_mem.v|controller.v|control.v|ALUControl.v|ALU.v|adder.v|
+Z7 !s90 adder.v|ALU.v|ALUControl.v|control.v|controller.v|data_mem.v|data_path.v|inst_mem.v|mips.v|mux_32_2_1.v|mux_5_2_1.v|PC.v|PC_ADDER.v|Program 1_Machine Code.txt|Program 2_Machine Code.txt|reg_file.v|sh_left.v|sh_left32.v|Sign_Extend.v|TOP_MODULE.v|transcript|vsim.wlf|
+!i113 1
+Z8 tCvgOpt 0
+vALU
+R1
+!i10b 1
+!s100 3M]lU8N7O>deYXnFPNCza0
+IPS_ocnR=j[fgbR47<?Y^L2
+R2
+R3
+w1646670783
+8ALU.v
+FALU.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@a@l@u
+vALUControl
+!s110 1647084796
+!i10b 1
+!s100 3jiWIDLBU7`C<jM:<I9:d3
+Il40BFVDnYhgiG3f2?M<b00
+R2
+R3
+w1647084788
+8.\ALUControl.v
+F.\ALUControl.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1647084795.000000
+!s107 .\ALUControl.v|
+!s90 .\ALUControl.v|
+!i113 1
+R8
+n@a@l@u@control
+vcontrol
+R1
+!i10b 1
+!s100 U5dESOkWS8<2]L;g>VkQI2
+IOH7Ilbg257ZMPEeZ;;CYb2
+R2
+R3
+w1646670964
+8control.v
+Fcontrol.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vcontroller
+R1
+!i10b 1
+!s100 JRH@`jiCD:ezCi9kLP1133
+I5Q9z3:`i<bM4WN@7iPeNA0
+R2
+R3
+w1646671668
+8controller.v
+Fcontroller.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vdata_mem
+R1
+!i10b 1
+!s100 K27a2EAgR58_Y^5ZBBSo^0
+IcB^anKdVH<iM:?jQ<7KZN0
+R2
+R3
+w1646673324
+8data_mem.v
+Fdata_mem.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vdatapath
+!s110 1646982263
+!i10b 1
+!s100 @=_8UYzjY;U0REOK@VAbE0
+IdENaAn>n?:gCANO6@;A4g2
+R2
+R3
+w1646680576
+8.\data_path.v
+F.\data_path.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1646982263.000000
+!s107 .\data_path.v|
+!s90 .\data_path.v|
+!i113 1
+R8
+vfull_adder
+!s110 1646477102
+!i10b 1
+!s100 EdY=QmPe26JZ0;EX2FR]Z2
+I>LmDFB5IQmBd`fAhl73dA1
+R2
+R0
+w1646477099
+8.\adder.v
+F.\adder.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1646477102.000000
+!s107 .\adder.v|
+!s90 .\adder.v|
+!i113 1
+R8
+vinst_mem
+!s110 1646982259
+!i10b 1
+!s100 `<467`B`NzeZQKKFLKnDb3
+IDZOJkQR^fQeY;1IGTWlk[0
+R2
+R3
+w1646982252
+8.\inst_mem.v
+F.\inst_mem.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1646982259.000000
+!s107 .\inst_mem.v|
+!s90 .\inst_mem.v|
+!i113 1
+R8
+vmips
+!s110 1646982271
+!i10b 1
+!s100 mm_PeKECCOL37HK8Yz6^43
+IWR7AVODK3fmgnZbA;PW=P1
+R2
+R3
+w1646672482
+8.\mips.v
+F.\mips.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1646982271.000000
+!s107 .\mips.v|
+!s90 .\mips.v|
+!i113 1
+R8
+vmux2_1
+!s110 1646476924
+!i10b 1
+!s100 NBA=Li9WJhgM6>K7n6FMZ0
+I6<?ZEPkY8FnJZ]VN;?ARH1
+R2
+R0
+w1646476915
+8.\mux2_1.v
+F.\mux2_1.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1646476924.000000
+!s107 .\mux2_1.v|
+!s90 .\mux2_1.v|
+!i113 1
+R8
+vmux_32_2_1
+R1
+!i10b 1
+!s100 el05VlA=cz4]R?MU6S0n;1
+I7Cd;L65g7`Dz;0OHWkaLE3
+R2
+R3
+w1646644109
+8mux_32_2_1.v
+Fmux_32_2_1.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vmux_5_2_1
+R1
+!i10b 1
+!s100 d>8z79PPN=OFG_L`JnMW_1
+I=9nR2IUCJWDe8FVaZLMR62
+R2
+R3
+w1646644093
+8mux_5_2_1.v
+Fmux_5_2_1.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vPC
+R1
+!i10b 1
+!s100 bDC>8jfI>zDL8bd5k:5@32
+I1V]nWaO[fmNY=gRiWXD2l1
+R2
+R3
+w1646671167
+8PC.v
+FPC.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@p@c
+vPC_ADDER
+R1
+!i10b 1
+!s100 TeJCzIMY?jnWQ]T5a_E0J2
+IRCP6PZZ]:BGI5<PA3cPFm3
+R2
+R3
+w1646671272
+8PC_ADDER.v
+FPC_ADDER.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@p@c_@a@d@d@e@r
+vreg_file
+!s110 1646982267
+!i10b 1
+!s100 AmOegYJi^OM[U`zMmghm@2
+Ie9jHAK<L2O6hcYKPncDK_3
+R2
+R3
+w1646681132
+8.\reg_file.v
+F.\reg_file.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1646982267.000000
+!s107 .\reg_file.v|
+!s90 .\reg_file.v|
+!i113 1
+R8
+vsh_left
+R1
+!i10b 1
+!s100 32kSkP=B<@>3:T>PCVXn`2
+IL;B54C9SIZ;J0KcULed[=1
+R2
+R3
+w1646476873
+8sh_left.v
+Fsh_left.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vsh_left32
+R1
+!i10b 1
+!s100 MbG]j3O7[>I1Hhmo[XSd20
+IC4cDPo7j<P4aAKS3GDakP2
+R2
+R3
+w1646677515
+8sh_left32.v
+Fsh_left32.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vSign_Extend
+R1
+!i10b 1
+!s100 47l1PZng_I9XaJU0?05fQ3
+ILLM[UlSGZEWP4E;FmX=n=2
+R2
+R3
+w1646680087
+8Sign_Extend.v
+FSign_Extend.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@sign_@extend
+vTOP_MODULE
+!s110 1647084798
+!i10b 1
+!s100 _o>TINRE1NAiUB1[LDP;k0
+Ihb>VCiz8Y@jH0j5CG30mM2
+R2
+R3
+w1646586828
+8.\TOP_MODULE.v
+F.\TOP_MODULE.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1647084798.000000
+!s107 .\TOP_MODULE.v|
+!s90 .\TOP_MODULE.v|
+!i113 1
+R8
+n@t@o@p_@m@o@d@u@l@e
